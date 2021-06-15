@@ -1,0 +1,8 @@
+====REPL===
+
+CRTL+ C , CRTL+D  (exit from node)
+
+dir (check files dir)
+
+type nul > xeeshan.js (create new file)
+
